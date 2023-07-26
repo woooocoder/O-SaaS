@@ -1,6 +1,6 @@
-import Lightning from "./lightning.svg"
-import Stairs from "./stairs.svg"
-import Triangle from "./triangle.svg"
+import Lightning from "./images/lightning.svg"
+import Stairs from "./images/stairs.svg"
+import Triangle from "./images/triangle.svg"
 
 const Home = () => {
 
@@ -21,28 +21,59 @@ const Home = () => {
                 <div className="flex items-center justify-between grid-cols-1 px-8 pt-24">
                     <div className="ml-6 flex-col text-left">
                         <img src={Stairs} alt="Stairs" />
-                        <h2 className="my-6 text-2xl font-light text-[#3023ae]">Understand every <br/> step of the way</h2>
-                        <p className="mb-5 text-xl text-gray-500">Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit. Integer est <br/> tellus, pulvinar
-                         ac iaculis vel, varius eu <br/> arcu tor vestibulum.</p>
+                        <h2 className="my-6 text-2xl font-light text-[#3023ae]">
+                            Understand every <br/> step of the way
+                        </h2>
+                        <p className="mb-5 text-xl text-gray-500">
+                            Lorem ipsum dolor sit amet, <br/> consectetur adipiscing elit. Integer est <br/> tellus, pulvinar
+                            ac iaculis vel, varius eu <br/> arcu tor vestibulum.
+                        </p>
                     </div>
                     <div className="mx-6 text-left">
                         <img src={Lightning} alt="Lightning" />
-                        <h2 className="my-6 text-2xl font-light text-[#3023ae]">Build faster with <br/> instant answers</h2>
-                        <p className="mb-5 text-xl text-gray-500">Lacinia condimentum lectus dolor <br/> viverra nunc. Mauris quis <br/> condimentum orci. Curabitur 
-                         <br/> hendrerit, felis vitae.</p>
+                        <h2 className="my-6 text-2xl font-light text-[#3023ae]"
+                            >Build faster with <br/> instant answers
+                        </h2>
+                        <p className="mb-5 text-xl text-gray-500">
+                            Lacinia condimentum lectus dolor <br/> viverra nunc. Mauris quis <br/> condimentum orci. Curabitur 
+                            <br/> hendrerit, felis vitae.
+                        </p>
                     </div>
                     <div className="mr-6 text-left">
                         <img src={Triangle} alt="Triangle" />
-                        <h2 className="my-6 text-2xl font-light text-[#3023ae]">Unlock insights <br/> for everyone</h2>
-                        <p className="mb-5 text-xl text-gray-500">Curabitur quis purus congue ante <br/> interdum mattis sit amet at ante. <br/> Nulla volutpat,
-                         magna quis convallis <br/> tristique, purus mi sollicitudin sem.</p>
+                        <h2 className="my-6 text-2xl font-light text-[#3023ae]">
+                            Unlock insights <br/> for everyone
+                        </h2>
+                        <p className="mb-5 text-xl text-gray-500">
+                            Curabitur quis purus congue ante <br/> interdum mattis sit amet at ante. <br/> Nulla volutpat,
+                            magna quis convallis <br/> tristique, purus mi sollicitudin sem.
+                        </p>
                     </div>
-                    </div>
-                    <div className="mt-16 mb-48 flex border-t-4 border-[#3023ae]">
-                        <div className="mt-24 ml-14 mr-24 text-center text-3xl font-light text-[#3023ae]">A foundation built for <br/> scale and forsight</div>
-                        <div className="mt-28 ml-36 text-xl text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer est <br/> tellus, pulvinar
-                         ac iaculis vel, varius eu arcu tor vestibulum.</div>
                 </div>
+                    
+                    {/* <div className="flex mt-16 mx-12 pt-56 mb-48 border-t-4 border-[#3023ae]">
+                        <div>
+                            <h2 className="text-center text-2xl font-light text-[#3023ae]">A foundation built for <br /> scale & forsight</h2>
+                        </div>
+                        <div>
+                            <p className="ml-16 text-xl mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer est <br /> tellus, pulvinar
+                                 ac iaculis vel, varius eu arcu tor vestibulum.
+                            </p>
+                        </div>
+
+                    </div> */}
+                    <div className="flex justify-between mt-16 mx-12 pt-56 mb-48 border-t-4 border-[#3023ae]">
+                        <div>
+                            <h2 className="text-center ml-48 text-2xl font-light text-[#3023ae]">A foundation built for <br /> scale & forsight</h2>
+                        </div>
+                        <div>
+                            <p className="ml-16 text-xl mr-48 mt-2 text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer est <br /> tellus, pulvinar
+                                 ac iaculis vel, varius eu arcu tor vestibulum.
+                            </p>
+                        </div>
+
+                    </div> 
+
             </div>
         </>
     )
