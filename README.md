@@ -1,6 +1,19 @@
 This is a sample landing page using React, JS and Tailwind
 
-# Getting Started with Create React App
+
+
+![image](https://github.com/woooocoder/O-SaaS/assets/101821974/bdb42dc3-cedc-4c93-8c8d-7f4ee93d1383)
+![image](https://github.com/woooocoder/O-SaaS/assets/101821974/741f5601-7e31-48e4-ab3d-6eb730a65fe2)
+![image](https://github.com/woooocoder/O-SaaS/assets/101821974/5ca0fdef-e521-4381-af5e-ec1d91d0dc5c)
+![image](https://github.com/woooocoder/O-SaaS/assets/101821974/faa486fa-f031-4c13-9ca0-ee7eb4e71e51)
+
+
+
+
+
+
+# Getting Started with Create
+ React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
