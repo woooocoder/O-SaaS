@@ -3,6 +3,8 @@ This is a sample landing page using React, JS and Tailwind
 
 
 ![image](https://github.com/woooocoder/O-SaaS/assets/101821974/bdb42dc3-cedc-4c93-8c8d-7f4ee93d1383)
+![image](https://github.com/woooocoder/O-SaaS/assets/101821974/23d95812-0c07-4fa6-ad14-c76639502241)
+
 ![image](https://github.com/woooocoder/O-SaaS/assets/101821974/faa486fa-f031-4c13-9ca0-ee7eb4e71e51)
 ![image](https://github.com/woooocoder/O-SaaS/assets/101821974/bfe9477a-5bac-4288-b308-c70502056fe1)
 ![image](https://github.com/woooocoder/O-SaaS/assets/101821974/eafe55ed-0718-4c3b-9bf9-3390fd53b9e3)
